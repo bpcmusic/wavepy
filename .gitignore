@@ -1,3 +1,4 @@
 wavetables.h
 wrf.wav
 __pycache__
+*.pyc
